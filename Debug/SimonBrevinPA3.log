@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\brevin simon\desktop\trash\simonbrevinpa3\simonbrevinpa3\main.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\brevin simon\desktop\trash\simonbrevinpa3\simonbrevinpa3\main.c(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  equations.c
+c:\users\brevin simon\desktop\trash\simonbrevinpa3\simonbrevinpa3\equations.c(7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\brevin simon\desktop\trash\simonbrevinpa3\simonbrevinpa3\equations.c(15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Generating Code...
+  SimonBrevinPA3.vcxproj -> C:\Users\brevin Simon\Desktop\Trash\SimonBrevinPA3\Debug\SimonBrevinPA3.exe
+  SimonBrevinPA3.vcxproj -> C:\Users\brevin Simon\Desktop\Trash\SimonBrevinPA3\Debug\SimonBrevinPA3.pdb (Full PDB)
